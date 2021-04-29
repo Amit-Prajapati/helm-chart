@@ -2,7 +2,7 @@
 
 Reference link: https://medium.com/@mattiaperi/create-a-public-helm-chart-repository-with-github-pages-49b180dbb417
 
-Commands:
+Commands:\n
 helm lint helm-chart-sources/*
 helm package helm-chart-sources/*
 helm repo index --url https://Amit-Prajapati.github.io/helm-chart/ .
